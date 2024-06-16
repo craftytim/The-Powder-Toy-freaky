@@ -1,0 +1,17 @@
+powder_freaky_1:
+	- x100 higher temperature max
+	- x100 higher pressure max/min
+	- x100 max particles
+
+powder_freaky_2:
+	- obscenely high temperature max
+	- temperature can go obscenely low too
+	- x100 particles max
+	- x100 pressure max and min
+	- max particle stacking is now 500 before BHOL is formed
+
+powder_freaky_3:
+	- x100 particles max
+	- several million particles can be stacked before you form BHOL
+	- temperature now goes to +/- 1million
+	- x100 pressure max and min
